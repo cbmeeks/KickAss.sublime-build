@@ -4,9 +4,7 @@ KickAss.sublime-build
 Custom build system for Sublime Text 2 and KickAssembler (6502)
 
 
-# Options
-
-### cmd
+## Options
 
     "cmd": ["$file_path/build.sh"],
 
