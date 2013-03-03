@@ -1,0 +1,5 @@
+{
+  "cmd": ["$file_path/build.sh"],
+	"selector": "source.assembly.6502.kickassembler",
+	"shell": true
+}
